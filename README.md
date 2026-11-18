@@ -253,9 +253,3 @@ documentation and learning from each task.
     https://networkwalks.com/hash-calculator/
 -   NetworkWalks Password Cracker:
     https://networkwalks.com/password-cracker/
-
-**Before publishing:** Use your own screenshots in the seven marked
-spaces. Check that each screenshot is readable. For a public repository
-or LinkedIn post, hide any password or other information that should not
-be shared. Do not upload confidential PDFs or real user credentials to
-third-party tools.
