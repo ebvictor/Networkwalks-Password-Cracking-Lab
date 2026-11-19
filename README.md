@@ -68,20 +68,17 @@ this value did not itself unlock or decrypt the PDF; it gave the
 cracking tool the information it needed to test password candidates.
 
 **Screenshot 2 --- PDF hash generated with Online Hash Crack**
+![NetworkWalks Hash Calculator](Screenshot%202026-11-18%2002.png)
 
-```{=html}
-<!-- Insert screenshot 2 here: Online Hash Crack showing the extracted PDF hash. -->
-```
 ### 3. Loaded the hash and ran the attack in Johnny
 
 I opened `hash1.txt` in Johnny and started a new attack. John the Ripper
 processed the supplied PDF hash and reported the recovered password.
 
 **Screenshot 3 --- Johnny displaying the recovered password**
+![PDF opened after using the recovered password](Screenshot%202026-11-18%2004.png)
 
-```{=html}
-<!-- Insert screenshot 3 here: Johnny showing the successful password-recovery result. -->
-```
+
 ### 4. Verified the result
 
 To confirm that the recovered password was correct, I opened the
@@ -89,10 +86,8 @@ original protected PDF and entered the password. The document opened
 successfully.
 
 **Screenshot 4 --- Protected PDF opened successfully**
+![NetworkWalks Password Cracker](Screenshot%202026-11-18%2003.png)
 
-```{=html}
-<!-- Insert screenshot 4 here: The PDF reader showing that the protected lab PDF has opened. -->
-```
 ## What I learned from Module 1
 
 This exercise helped me understand the relationship between John the
