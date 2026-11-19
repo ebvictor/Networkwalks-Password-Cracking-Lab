@@ -240,3 +240,4 @@ documentation and learning from each task.
     https://networkwalks.com/hash-calculator/
 -   NetworkWalks Password Cracker:
     https://networkwalks.com/password-cracker/
+-   Linkedin Link, https://lnkd.in/p/e9AsG6Wj
