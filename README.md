@@ -129,10 +129,8 @@ file and displayed a PDF hash beginning with `$pdf$`.
 **Tool:** https://networkwalks.com/hash-calculator/
 
 **Screenshot 5 --- NetworkWalks Hash Calculator**
+![Johnny configured with john.exe](Screenshot%202026-11-18%20001.png)
 
-```{=html}
-<!-- Insert screenshot 5 here: NetworkWalks Hash Calculator open in the browser. -->
-```
 ### 2. Used the NetworkWalks Password Cracker
 
 I copied the complete extracted hash and opened the NetworkWalks
@@ -143,10 +141,8 @@ process and displayed the recovered password when it found a match.
 **Tool:** https://networkwalks.com/password-cracker/
 
 **Screenshot 6 --- NetworkWalks Password Cracker**
+![PDF hash generated with Online Hash Crack](Screenshot%202026-11-18%20002.png)
 
-```{=html}
-<!-- Insert screenshot 6 here: NetworkWalks Password Cracker showing the submitted hash and/or completed result. -->
-```
 ### 3. Verified access to the PDF
 
 After the tool returned the password, I opened the original protected
@@ -154,10 +150,8 @@ PDF and entered it. The PDF opened successfully, confirming that the
 recovered password worked.
 
 **Screenshot 7 --- PDF opened after using the recovered password**
+![Johnny displaying the recovered password](Screenshot%202026-11-18%20003.png)
 
-```{=html}
-<!-- Insert screenshot 7 here: The protected PDF open after entering the recovered password. -->
-```
 ## What I learned from Module 2
 
 This exercise showed me how the hash-extraction and password-testing
