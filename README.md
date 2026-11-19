@@ -53,10 +53,8 @@ installation. This connected Johnny to the actual John the Ripper
 engine.
 
 **Screenshot 1 --- Johnny configured with `john.exe`**
+![Johnny configured with john.exe](Screenshot%202026-11-18%20001.png)
 
-```{=html}
-<!-- Insert screenshot 1 here: Johnny settings showing the selected john.exe path. -->
-```
 ### 2. Extracted the PDF hash
 
 For this run, I used the Online Hash Crack PDF Hash Extractor referenced
