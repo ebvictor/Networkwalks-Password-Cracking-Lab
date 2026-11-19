@@ -53,7 +53,7 @@ installation. This connected Johnny to the actual John the Ripper
 engine.
 
 **Screenshot 1 --- Johnny configured with `john.exe`**
-![Johnny configured with john.exe](Screenshot%202026-11-18%20001.png)
+![Protected PDF opened successfully](Screenshot%202026-11-18%2001.png)
 
 ### 2. Extracted the PDF hash
 
